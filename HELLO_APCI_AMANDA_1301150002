@@ -1,0 +1,6 @@
+program Hello;
+user crt;
+Begin
+    clrscr;
+    writln('hello world');//untuk mengeluarkan string 'hello world'di layar
+    End
